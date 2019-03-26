@@ -25,7 +25,7 @@ ssh-keygen
 4.复制秘钥
 
 cd ~/.ssh， 打开id_rsa.pub文件，全选复制
-
+cat ~/.ssh/id_rsa.pub
 
 
 5.github中添加秘钥
